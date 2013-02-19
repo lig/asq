@@ -1,0 +1,20 @@
+*~
+.*
+!.gitignore
+
+# Python development
+*.pyc
+
+# Distutils
+/MANIFEST
+/build/lib/*
+/dist/*
+
+# Sphinx docs
+/docs/build/*
+
+# PyCharm
+*.iml
+
+# Jython
+*$py.class
