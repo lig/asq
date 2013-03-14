@@ -31,6 +31,6 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities",
         ],
-    requires = ['ordereddict'],
+    requires = ['six', 'ordereddict'],
     long_description = long_description
 )
